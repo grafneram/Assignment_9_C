@@ -1,0 +1,3 @@
+C:/Users/Ashley/CLionProjects/Assignment_9_ex2/cmake-build-debug/CMakeFiles/Assignment_9_ex2.dir
+C:/Users/Ashley/CLionProjects/Assignment_9_ex2/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/Ashley/CLionProjects/Assignment_9_ex2/cmake-build-debug/CMakeFiles/rebuild_cache.dir
